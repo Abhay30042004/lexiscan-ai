@@ -1,0 +1,4 @@
+project_id = "mehsaikhtokqgepaquqb"
+
+[functions.extract-entities]
+verify_jwt = false
