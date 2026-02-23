@@ -1,29 +1,26 @@
-# Fintech / Web Application Project
+# Lexiscan AI
 
-This project was developed as part of my learning and internship practice in software development and machine learning workflows.
+A personal project developed and maintained by **Abhay V. Sonkusare**.
 
-The project demonstrates application structure, development setup, and version control using modern tools.
+## 📌 Project Overview
 
-## Project Overview
+This repository contains the source code and documentation for *Lexiscan AI* — a custom application built during my development learning journey.
 
-This repository contains the source code and development setup for building and testing the application locally.
+### 🚀 Features
+- Feature 1 description
+- Feature 2 description
+- (Write what your project does clearly here)
 
-Main objectives:
-- Understand real-world project structure
-- Practice Git & GitHub workflow
-- Work with modern development tools
-- Implement and test application features
-
-## Technologies Used
-
-- JavaScript / TypeScript
+## 💻 Technology Stack
+This project uses:
 - React
+- TypeScript
 - Tailwind CSS
 - Node.js
 - Vite
 
-## How to Run the Project Locally
+## 🛠️ How to Setup Locally
 
-### 1. Clone the repository
-```bash
-git clone <YOUR_REPOSITORY_URL>
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Abhay30042004/lexiscan-ai.git
